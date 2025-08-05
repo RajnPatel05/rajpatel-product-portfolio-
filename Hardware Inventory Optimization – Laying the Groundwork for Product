@@ -1,0 +1,88 @@
+
+# 📌 Hardware Inventory Optimization – Laying the Groundwork for Product
+
+## 🔍 Summary
+At Wrkspot, hardware inventory was tracked inconsistently, leading to lost devices, audit issues, and operational inefficiencies. I led the creation of an automated workflow to manage the entire device lifecycle — from ordering to damage — which later became the foundation for Wrkspot’s client-facing Asset Management product.
+
+## 🎯 Goals
+- Replace manual processes with structured, automated workflows
+- Eliminate inventory-related errors and improve traceability
+- Provide reliable data for Finance and Accounting teams
+- Design a scalable system with product potential
+
+### 📊 Key Metrics
+- 📉 90% reduction in inventory-related issues  
+- ⏱ Inventory reconciliation time reduced from days to minutes  
+- ✅ Real-time visibility into inventory status (ordered, in stock, deployed, damaged)  
+- 🔁 Internal workflow evolved into client-facing Asset Management product  
+
+## 👨‍💼 My Role
+**Title:** Associate Product Manager / Ops Lead  
+**Focus Areas:** Process Design • Workflow Automation • Cross-Functional Alignment
+
+### Contributions:
+- Audited inventory workflows and diagnosed root causes
+- Built a Google Sheets tracker with change logs and approval flows
+- Worked with Finance to align physical inventory and PO history
+- Standardized processes across offshore and U.S. fulfillment teams
+- Proposed long-term vision for productizing the internal workflow
+
+## ❗ The Challenge
+No system existed — only ad hoc spreadsheets and verbal updates:
+- Frequent device loss and miscounts
+- No real-time visibility or lifecycle tracking
+- Financial and logistical mismatches led to delays and reordering issues
+
+## 🔧 Approach
+
+### 🧠 Discovery
+- Interviewed Finance, Fulfillment, and Customer Success teams
+- Identified root issues in ordering, labeling, and tracking
+- Audited previous quarter’s inventory to locate recurring errors
+
+### 🛠 Workflow Creation
+- Built centralized dashboard to track:
+  - Ordered stock
+  - Active deployment
+  - Damaged goods
+  - Reorder points
+- Implemented change logs and auto-alerts for reorder triggers
+- Added team-specific filters for Finance, CS, and Fulfillment
+
+### 📣 Enablement
+- Trained U.S. and offshore teams on using the new system
+- Delivered audit-ready, version-controlled templates
+- Aligned logic with QuickBooks and financial reporting standards
+
+## ✅ Results
+
+| Outcome              | Impact                                |
+|----------------------|----------------------------------------|
+| 📉 Inventory Errors   | Reduced by 90%                         |
+| ⏱ Reconciliation Time| Reduced from days to minutes           |
+| 📊 Audit Readiness    | Achieved full PO traceability          |
+| 🌐 Team Adoption      | U.S. and offshore teams onboarded      |
+| 💡 Product Foundation | Evolved into Asset Management feature  |
+
+## 📎 Key Artifacts
+- 📊 Google Sheets Inventory Tracker Template  
+- 🧭 Notion Workflow Diagram  
+- 🔐 Version Control Guide & Change Log Protocol  
+- 📈 MVP Asset Management Product Proposal  
+- 🧾 Audit Sheet Format for Accounting Integration  
+
+## 💬 Reflection
+
+### ✅ What Worked
+- Converted an inefficient internal process into a scalable, adopted workflow
+- Cross-functional collaboration solved pain points across multiple departments
+- Internal innovation served as springboard for a full-fledged product
+
+### ⚠️ What Could Be Improved
+- Push for a lightweight backend app earlier
+- Integrate inventory tracker with invoicing and reporting tools
+
+**Key Takeaway:**  
+This project reinforced how operational excellence can drive product development. It taught me how to take messy systems, align stakeholders, and deliver tools that scale into customer-facing value.
+
+
