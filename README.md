@@ -2,7 +2,7 @@
 
 # 🧠 Raj Patel – Product Management Case Study Portfolio
 
-Welcome! I'm Raj Patel, a product manager blending startup hustle with strategic execution to build AI-powered, scalable solutions across SaaS and real-world environments. With a background in launching products for hospitality, safety, and local business, I specialize in turning complexity into clarity — and ideas into impact.
+Welcome! I'm Raj Patel, a product manager blending startup hustle with strategic execution to build AI-powered, scalable solutions across SaaS and real-world environments. With a background in launching products for hospitality, safety, and local business, I specialize in turning complexity into clarity and ideas into impact.
 
 This portfolio showcases my most meaningful work: each case study highlights a challenge, the product-thinking approach, and measurable outcomes. Whether you're a hiring manager, founder, or collaborator, I hope these examples give you insight into how I operate.
 
