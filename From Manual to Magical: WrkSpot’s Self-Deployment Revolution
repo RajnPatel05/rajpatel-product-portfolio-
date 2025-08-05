@@ -1,0 +1,102 @@
+
+# 🚀 From Manual to Magical: WrkSpot’s Self-Deployment Revolution
+
+## 🧠 Overview
+Led the design, strategy, and launch of a self-deployment feature for WrkSpot, a SaaS platform in hospitality. This product enabled hotel clients to onboard themselves in 3 days (down from 1–2 weeks), improving scalability across 350+ properties and reducing internal costs and labor.
+
+## 🎯 Objectives
+- Eliminate manual onboarding and hardware configuration
+- Improve client time-to-value (TTV)
+- Standardize onboarding across properties
+- Enable direct shipping from vendor to hotel
+
+**Key KPIs:**
+- ⏱️ Onboarding time: 1–2 weeks → 3 days  
+- 📈 60% self-deployment adoption in 60 days  
+- 🧑‍💼 30% reduction in onboarding support tickets  
+- 💰 50%+ drop in implementation labor and costs  
+
+## 👤 My Role
+**Title:** Associate Product Manager  
+**Responsibilities:**
+- Led full product lifecycle (discovery → launch)
+- Defined roadmap, wrote PRDs, and created wireframes
+- Conducted UAT, A/B testing, and field validation
+- Collaborated with Engineering, QA, Design, CS, and Implementation
+
+**Tools Used:**  
+Figma, JIRA, Notion, Loom, Confluence, Google Sheets
+
+## 🔍 Problem
+Wrkspot’s original onboarding process was highly manual:
+- Internal setup of hardware (e.g., panic buttons)
+- Live walkthroughs required from CS team
+- Delays and bottlenecks limited scaling
+
+As demand grew, the need for a client-led onboarding experience became critical.
+
+## 💡 Approach
+
+### 🔬 Research & Discovery
+- Interviewed 12+ hotel GMs and HR managers
+- Audited 40+ support tickets for onboarding confusion
+- Shadowed CS team on live onboarding calls
+- Conducted field visits to observe real hotel environments
+
+### 🛠 Planning & Design
+- Prioritized MVP using MoSCoW framework
+- Built validated Figma wireframes with tooltips and progress tracking
+- Created Loom tutorials for each step
+- Designed A/B tests for legacy vs. self-deployment onboarding
+
+### 🚀 Execution
+- Completed 3 agile sprints
+- UAT with 5 enterprise clients
+- A/B testing with Mixpanel analytics
+- Deployed QR-code pairing and device assignment
+- Enabled vendor-to-hotel shipping with no Wrkspot touchpoint
+
+## 📈 Key Outcomes
+
+| Metric                           | Result                          |
+|----------------------------------|----------------------------------|
+| ⏱️ Onboarding Time               | Reduced to 3 days                |
+| 📦 Manual Hardware Prep          | 100% eliminated                  |
+| 📉 Onboarding Support Tickets    | Dropped by 30%                   |
+| 🚚 Internal Shipping Time        | 0 hours post-launch              |
+| 💼 Self-Deployment Adoption      | 60% within first 60 days         |
+| 💰 Implementation Labor Cost     | Reduced by over 50%              |
+
+## 💬 Testimonial
+> "The self-deployment flow was a turning point — it gave our team full control and drastically sped up our launch. What used to take over a week was done in just a few days without any hand-holding. Brilliant execution by the Wrkspot team."  
+> — *Lisa Romero, General Manager, Coastline Hospitality Group*
+
+## 📣 Social Proof
+- ✅ 60%+ of new clients onboarded autonomously within 60 days post-launch
+- 🏨 Streamlined onboarding across Wrkspot’s portfolio of 350+ hotels
+- 🚀 Praised by investors as a high-leverage operational improvement
+
+## 📎 Key Artifacts
+- ✅ Figma Wireframes  
+- ✅ Product Requirements Document (PRD)  
+- ✅ Journey Map & User Flowchart  
+- ✅ UAT Summary & Feedback  
+- ✅ Investor Feedback Notes  
+- ✅ Loom Walkthroughs for Internal Training  
+
+## 💭 Reflection
+
+### ✅ Wins
+- Scaled onboarding without increasing headcount
+- Delivered real-world impact and positive investor response
+- Reduced implementation costs significantly
+
+### 🤔 Do Differently
+- Add multilingual setup guides earlier
+- Automate beacon setup visualization with heatmaps
+- Include in-app NPS prompts post-onboarding
+
+**Growth:**  
+This project deepened my skills in scaling real-world SaaS systems, managing hardware-software integration, and leading cross-functional product delivery.
+
+
