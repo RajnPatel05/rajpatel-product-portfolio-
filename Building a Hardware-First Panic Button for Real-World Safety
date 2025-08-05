@@ -1,0 +1,120 @@
+
+# 🆘 From App to Action: Building a Hardware-First Panic Button for Real-World Safety
+
+## 🧠 At a Glance
+To address compliance gaps, device misuse, and scalability challenges, I led the end-to-end rollout of Wrkspot’s **Standalone Panic Button** — a hardware device that operates independently of smartphones. This initiative enabled Wrkspot to serve unionized hotels, cut installation costs, and elevate the brand’s credibility in the hospitality safety tech market.
+
+---
+
+## 🎯 What We Set Out to Solve
+- 🚫 Eliminate mobile phone dependency for panic button use
+- 💼 Overcome union and labor compliance limitations
+- 🚀 Expand Wrkspot’s safety offerings to new customer segments
+- 📉 Cut the cost and complexity of installation
+
+### 📊 Key Metrics
+- ✅ 100% mobile-free panic button usage
+- 💸 30% decrease in hardware costs
+- 🏨 Passed compliance testing in 3 hotel environments
+- 📈 20+ new unionized hotel accounts unlocked
+
+---
+
+## 👨‍💼 My Contributions
+**Role:** Associate Product Manager  
+**Focus:** Hardware innovation, compliance, field testing, vendor management
+
+**Key Contributions:**
+- Initiated and ran the vendor evaluation process
+- Coordinated QA, LTE signal testing, and safety simulations
+- Drafted product briefs and compliance documentation
+- Built internal training guides and rollout playbooks
+- Collaborated with Engineering, R&D, CS on GTM execution
+
+---
+
+## 🧩 The Challenge
+Wrkspot’s original panic system required Bluetooth pairing with a phone app.  
+This:
+- Delayed deployment due to setup complexity
+- Created friction for staff and encouraged misuse
+- Required company-issued smartphones (especially in unionized hotels)
+
+**Solution:** A discreet LTE-enabled badge-style panic button that operates independently.
+
+---
+
+## 🔍 Discovery Highlights
+- Conducted interviews with hotel GMs, union reps, and HR managers
+- Audited installation feedback and pairing failure rates
+- Researched panic button regulations in NYC, LA, and other cities
+
+---
+
+## 🔬 From Idea to Execution
+
+### 🔍 Vendor Sourcing
+- Reached out to 8+ manufacturers
+- Assessed: ADA compliance, battery life, form factor, LTE signal strength
+- Chose a badge-style device with a hidden red button on the back
+
+### 🧪 Testing & Validation
+- QA tests for latency, LTE signal loss, and battery life
+- Field simulations in:
+  - Courtyard hotel
+  - Beach resort
+  - High-rise property
+- Confirmed direct backend integration via LTE
+
+### 📦 GTM Enablement
+- Created:
+  - Install guides
+  - Safety checklists
+  - Loom walkthroughs
+- Trained Implementation and CS teams
+- Built product messaging and sales enablement decks
+
+---
+
+## ✅ What We Delivered
+
+| Area              | Result                                |
+|-------------------|----------------------------------------|
+| 📱 Device Independence | 100% removed phone reliance           |
+| 💰 Cost Savings        | ~30% hardware & LTE unit cost savings |
+| 🚪 Market Expansion    | 20+ unionized hotels unlocked         |
+| 🧪 Field-Readiness     | Passed testing across 3 hotel layouts  |
+| 🏷️ Form Factor         | Badge-style, discreet panic button     |
+
+---
+
+## 🧾 Supporting Artifacts
+- 📊 Vendor Scorecard Matrix  
+- ✅ LTE SIM Cost Comparison  
+- 🖥 Loom Training Walkthroughs  
+- 📝 Installation & Safety PDF Guide  
+- 📦 Product Brief & Sales Pitch Deck  
+
+---
+
+## 💬 Stakeholder Insight
+> "We’ve wanted to offer Wrkspot for years, but mobile device policies and union compliance blocked us. The new panic button changed everything — we rolled it out in less than a week."
+> — *Director of Ops, Union Hospitality Group* (Fictionalized)
+
+---
+
+## 💭 Final Takeaways
+
+### ✅ What Worked
+- Solved real compliance + labor issues with a hardware-first solution
+- Sourced and validated hardware quickly
+- Enabled smooth GTM with field-ready documentation
+
+### ⚠️ What Could Be Improved
+- Bring in Marketing earlier for external-facing rollout
+- Add in-app feedback tools for real-time device performance tracking
+
+**Personal Growth:**  
+This project strengthened my skills in hardware testing, compliance-focused product design, and leading fast-paced, cross-functional product development in regulated spaces.
+
+---
