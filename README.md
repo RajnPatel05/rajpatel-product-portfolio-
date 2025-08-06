@@ -8,7 +8,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 ## 🚀 Featured Projects
 
-### 1. [Self-Deployment App](Building a Hardware-First Panic Button for Real-World Safety)
+### 1. [Self-Deployment App](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/From%20Manual%20to%20Magical%3A%20WrkSpot%E2%80%99s%20Self-Deployment%20Revolution)
 > *From Manual to Magical: Empowering Hotels to Onboard Themselves*
 
 - Reduced onboarding time from 1–2 weeks to 3 days across 350+ hotel clients.
