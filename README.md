@@ -18,7 +18,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 ➡️ **Skills:** SaaS UX, A/B Testing, GTM, Agile Execution
 
-### 2. [Standalone Panic Button](./wrkspot_panic_button_case_study.md](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Building%20a%20Hardware-First%20Panic%20Button%20for%20Real-World%20Safety)
+### 2. [Standalone Panic Button](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Building%20a%20Hardware-First%20Panic%20Button%20for%20Real-World%20Safety)
 > *Hardware-First Safety Solution for Unionized Hotels*
 
 - Removed mobile dependency and enabled direct LTE panic alerting.
