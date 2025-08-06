@@ -8,7 +8,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 ## 🚀 Featured Projects
 
-### 1. [Self-Deployment App](./wrkspot_self_deployment_case_study.md)
+### 1. [Self-Deployment App](Building a Hardware-First Panic Button for Real-World Safety)
 > *From Manual to Magical: Empowering Hotels to Onboard Themselves*
 
 - Reduced onboarding time from 1–2 weeks to 3 days across 350+ hotel clients.
