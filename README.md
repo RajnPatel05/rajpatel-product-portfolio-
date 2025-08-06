@@ -54,7 +54,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 ➡️ **Skills:** End-to-End Execution, Business Ops, Lean Startup, Local Marketing
 
-### 6. [Hardware Inventory Optimization](.https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Hardware%20Inventory%20Optimization%20%E2%80%93%20Laying%20the%20Groundwork%20for%20Product)
+### 6. [Hardware Inventory Optimization](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Hardware%20Inventory%20Optimization%20%E2%80%93%20Laying%20the%20Groundwork%20for%20Product)
 > *Internal Workflow That Became a Product Foundation*
 
 - Reduced inventory errors by 90%.
