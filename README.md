@@ -74,7 +74,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 If any of these projects resonate or you'd like to collaborate:
 
-📧 rajpateln05@gmail.com  
+📧 raj.patel.product@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rpatel77)
 
 Thanks for stopping by!
