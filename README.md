@@ -26,6 +26,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 - Designed anti-fraud barcode system reducing membership sharing to <1%.
 - Led full product lifecycle: discovery → MVP → pilot launch strategy.
 - Tools: Figma, Stripe, Mixpanel, JIRA
+  
 ➡️ **Skills:** Subscription Monetization, Fraud Prevention, SaaS GTM, Mobile UX, Unit Economics
 
 ### 3. [Standalone Panic Button](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Building%20a%20Hardware-First%20Panic%20Button%20for%20Real-World%20Safety)
