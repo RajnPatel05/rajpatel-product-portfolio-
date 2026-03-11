@@ -20,13 +20,14 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 ➡️ **Skills:** SaaS UX, A/B Testing, GTM, Agile Execution
 
 ### 2. [FuelFlow — Membership & Loyalty Platform](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/fuelflow-casestudy.md)
-> *From Manual to Membership: Helping Independent Gas Stations Compete with National Chains*
+> *From Pump to Platform: Turning One-Time Fuel Customers into Loyal, Paying Members*
 - Built mobile-first loyalty platform targeting 150,000+ independent US gas stations.
 - Projected $3,998 MRR per station with 5-day operator payback period.
 - Designed anti-fraud barcode system reducing membership sharing to <1%.
 - Led full product lifecycle: discovery → MVP → pilot launch strategy.
+- 🔗 [Live MVP Prototype](https://c8jl7t.csb.app/)
 - Tools: Figma, Stripe, Mixpanel, JIRA
-  
+
 ➡️ **Skills:** Subscription Monetization, Fraud Prevention, SaaS GTM, Mobile UX, Unit Economics
 
 ### 3. [Standalone Panic Button](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Building%20a%20Hardware-First%20Panic%20Button%20for%20Real-World%20Safety)
