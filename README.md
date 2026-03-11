@@ -19,7 +19,16 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 ➡️ **Skills:** SaaS UX, A/B Testing, GTM, Agile Execution
 
-### 2. [Standalone Panic Button](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Building%20a%20Hardware-First%20Panic%20Button%20for%20Real-World%20Safety)
+### 2. [FuelFlow — Membership & Loyalty Platform](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/fuelflow-casestudy.md)
+> *From Manual to Membership: Helping Independent Gas Stations Compete with National Chains*
+- Built mobile-first loyalty platform targeting 150,000+ independent US gas stations.
+- Projected $3,998 MRR per station with 5-day operator payback period.
+- Designed anti-fraud barcode system reducing membership sharing to <1%.
+- Led full product lifecycle: discovery → MVP → pilot launch strategy.
+- Tools: Figma, Stripe, Mixpanel, JIRA
+➡️ **Skills:** Subscription Monetization, Fraud Prevention, SaaS GTM, Mobile UX, Unit Economics
+
+### 3. [Standalone Panic Button](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Building%20a%20Hardware-First%20Panic%20Button%20for%20Real-World%20Safety)
 > *Hardware-First Safety Solution for Unionized Hotels*
 
 - Removed mobile dependency and enabled direct LTE panic alerting.
@@ -28,7 +37,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 ➡️ **Skills:** Hardware PM, Compliance, Field Research, Stakeholder Management
 
-### 3. [Trinity Subscription Model](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Scaling%20Smart%3A%20How%20Modular%20Pricing%20Opened%20New%20Markets%20for%20Wrkspot)
+### 4. [Trinity Subscription Model](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Scaling%20Smart%3A%20How%20Modular%20Pricing%20Opened%20New%20Markets%20for%20Wrkspot)
 > *Modular Pricing Strategy to Unlock New Market Segments*
 
 - Designed WrkOps, WrkShield, and WrkForce tiers.
@@ -37,7 +46,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 ➡️ **Skills:** Monetization Strategy, Market Segmentation, Messaging, Sales Enablement
 
-### 4. [PHM x WrkSpot Document Management](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Digitizing%20Hospitality%3A%20The%20PHM%20x%20WrkSpot%20Success%20Story)
+### 5. [PHM x WrkSpot Document Management](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Digitizing%20Hospitality%3A%20The%20PHM%20x%20WrkSpot%20Success%20Story)
 > *Digitizing 84,000 Documents and Cutting Costs for 14 Hotels*
 
 - Helped PHM move from paper to cloud — saving $19K+ annually.
@@ -46,7 +55,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 ➡️ **Skills:** Client Research, Sustainability, Product-Led Storytelling
 
-### 5. [Linda’s Threading Salon](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Linda%E2%80%99s%20Threading%20Salon%20%E2%80%93%20From%20Raw%20Space%20to%20Profitable%20Exit)
+### 6. [Linda’s Threading Salon](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Linda%E2%80%99s%20Threading%20Salon%20%E2%80%93%20From%20Raw%20Space%20to%20Profitable%20Exit)
 > *Bootstrapped, Launched, and Flipped a Local Business in Under 12 Months*
 
 - Built and licensed a salon in <90 days.
@@ -55,7 +64,7 @@ This portfolio showcases my most meaningful work: each case study highlights a c
 
 ➡️ **Skills:** End-to-End Execution, Business Ops, Lean Startup, Local Marketing
 
-### 6. [Hardware Inventory Optimization](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Hardware%20Inventory%20Optimization%20%E2%80%93%20Laying%20the%20Groundwork%20for%20Product)
+### 7. [Hardware Inventory Optimization](https://github.com/RajnPatel05/rajpatel-product-portfolio-/blob/main/Hardware%20Inventory%20Optimization%20%E2%80%93%20Laying%20the%20Groundwork%20for%20Product)
 > *Internal Workflow That Became a Product Foundation*
 
 - Reduced inventory errors by 90%.
